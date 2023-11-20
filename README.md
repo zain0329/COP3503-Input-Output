@@ -1,9 +1,8 @@
-### COP3503 - Number Statistics Project 
+### COP3503 - Data Preprocessing Project
 
-This Number Statistics Project was the first project of my Object Oriented Programming class at the University of North Florida. It shows an understanding of basic programming structures along with how to use methods and built-in Java classes
+This Data Preprocessing Project was the second project of my Object Oriented Programming class at the University of North Florida. It shows an understanding of how to use an input stream to read in data from a delimited text file, use existing methods to convert dates into different formats, use an output stream to create a delimited text file, and catch and recover from exceptions that can occur.
 
-![Zain Malik (2)](https://github.com/zain0329/COP3503-Number-Statistics/assets/66034863/04f1f488-ed04-46ca-aabb-59e93e34e8aa)
-
+![Zain Malik (3)](https://github.com/zain0329/COP3503-Input-Output/assets/66034863/cb593252-e14c-4eb4-b2d6-302278ed592f)
 
 
 
